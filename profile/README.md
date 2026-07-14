@@ -14,10 +14,6 @@
   공공데이터 · MCP · App-in-Toss · 문서 처리 · 지역 관광
 </p>
 
-<p align="center">
-  <img src="./assets/products.png" alt="나의 집찾기, 모든 문서 뷰어, 오늘은여기, 동행 실제 제품 화면" width="100%" />
-</p>
-
 ## 만드는 것
 
 <table>
