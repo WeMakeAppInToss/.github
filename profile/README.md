@@ -14,6 +14,10 @@
   공공데이터 · MCP · App-in-Toss · 문서 처리 · 지역 관광
 </p>
 
+<p align="center">
+  <img src="./assets/products.png" alt="나의 집찾기, 모든 문서 뷰어, 오늘은여기, 동행 실제 제품 화면" width="100%" />
+</p>
+
 ## 만드는 것
 
 <table>
@@ -31,14 +35,17 @@
       <a href="https://playmcp.kakao.com/mcp/62130978520351333"><strong>PlayMCP에서 사용하기</strong></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/document-viewer-icon.png" alt="모든 문서 뷰어 아이콘" width="104" />
+      <a href="https://minion.toss.im/zfqbqrQh">
+        <img src="./assets/document-viewer-icon.png" alt="모든 문서 뷰어 아이콘" width="104" />
+      </a>
       <br /><br />
       <strong>모든 문서 뷰어</strong>
       <br /><br />
       PDF, 이미지, 텍스트, 마크다운, HWP/HWPX, DOCX, XLSX, PPTX와
       이미지 ZIP을 열고 PDF로 저장합니다. 문서는 서버에 올리지 않고 기기 안에서 처리합니다.
+      앱을 설치하지 않아도 토스에서 바로 쓸 수 있습니다.
       <br /><br />
-      <sub>App-in-Toss 문서 도구</sub>
+      <a href="https://minion.toss.im/zfqbqrQh"><strong>토스에서 바로 사용하기</strong></a>
     </td>
   </tr>
   <tr>
@@ -90,9 +97,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/document-viewer.png" alt="모든 문서 뷰어" width="100%" />
+      <a href="https://minion.toss.im/zfqbqrQh">
+        <img src="./assets/document-viewer.png" alt="모든 문서 뷰어" width="100%" />
+      </a>
       <br />
-      <sub><strong>모든 문서 뷰어</strong> — 포맷을 가리지 않는 기기 내 문서 처리</sub>
+      <sub><strong>모든 문서 뷰어</strong> — 설치 없이 토스에서 바로 쓰는 기기 내 문서 처리</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://ennoia.so/apps/openLink/d5fb5f541ac84873a6e26478b19fe005">
