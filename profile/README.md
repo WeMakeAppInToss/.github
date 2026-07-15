@@ -116,7 +116,7 @@
 동행은 실제 관광 데이터와 공식 사진을 바탕으로 분석, 콘텐츠 제작,
 이미지 검증, 성과 지표를 하나의 멀티에이전트 흐름으로 연결해 우수상을 수상했습니다.
 
-[동행 기획·개발 노트](https://dancing-cloud.com/donghaeng-notes) ·
+[동행 기획·개발 노트](https://wemakeappintoss.github.io/donghaeng-notes/) ·
 [수상 기사](https://v.daum.net/v/Vz13qUJ6AE)
 
 ## 우리가 중요하게 보는 것
