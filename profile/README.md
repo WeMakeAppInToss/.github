@@ -46,16 +46,17 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://oneulhere.com/">
+      <a href="https://minion.toss.im/ZVmAEsfr">
         <img src="./assets/oneulhere-icon.png" alt="오늘은여기 아이콘" width="104" />
       </a>
       <br /><br />
       <strong>오늘은여기</strong>
       <br /><br />
-      몇 가지 질문으로 오늘 갈 시군구를 고르고, 날씨와 관광 데이터를 바탕으로
-      바로 여행 코스까지 만드는 서비스입니다.
+      지역을 직접 고르거나 사진으로 취향을 찾고, 실제 관광 데이터를 바탕으로
+      명소와 숙소, 이동 경로, 동행자와 함께 편집하는 일정까지 만드는 국내 여행 플래너입니다.
       <br /><br />
-      <a href="https://oneulhere.com/"><strong>오늘 갈 곳 정하기</strong></a>
+      <a href="https://minion.toss.im/ZVmAEsfr"><strong>토스에서 시작하기</strong></a>
+      · <a href="https://oneulhere.com/">웹에서 보기</a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://ennoia.so/apps/openLink/d5fb5f541ac84873a6e26478b19fe005">
@@ -84,11 +85,11 @@
       <sub><strong>나의 집찾기</strong> — 공고 검색과 자격 근거를 제공하는 공개 MCP</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://oneulhere.com/">
-        <img src="./assets/oneulhere.png" alt="오늘은여기 공개 웹 앱" width="100%" />
+      <a href="https://minion.toss.im/ZVmAEsfr">
+        <img src="./assets/oneulhere.png" alt="오늘은여기 국내 여행 플래너" width="100%" />
       </a>
       <br />
-      <sub><strong>오늘은여기</strong> — 질문 몇 개로 시작하는 오늘의 지역 선택</sub>
+      <sub><strong>오늘은여기</strong> — 지역 선택부터 실제 장소를 잇는 공동 여행 일정까지</sub>
     </td>
   </tr>
   <tr>
